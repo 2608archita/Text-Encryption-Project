@@ -47,7 +47,6 @@ RSA Encrypted: ... RSA Decrypted: Hello Archita!
 ## Author
 *Archita Sahoo*  
 Cybersecurity Mini Project (2025)  
-GEC Autonomous College, Bhubaneswar
 
 ---
 
